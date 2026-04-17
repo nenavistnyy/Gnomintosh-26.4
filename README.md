@@ -30,4 +30,5 @@ What's new in version 26.4.1:
 Gnomintosh Tahoe — make your Linux elegant.
 
 Theme - https://github.com/vinceliuice/MacTahoe-gtk-theme
+
 Icons - https://github.com/vinceliuice/MacTahoe-icon-theme
