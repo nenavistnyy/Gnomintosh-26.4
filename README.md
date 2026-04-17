@@ -1,4 +1,5 @@
-<img width="1144" height="408" alt="GnomeLogoHorizontal" src="https://github.com/user-attachments/assets/b14877cd-b658-4d4c-b236-346bc633a7c1" />
+<img width="1920" height="1080" alt="Screenshot From 2026-04-17 18-03-09" src="https://github.com/user-attachments/assets/a7c8cb51-5478-448d-a26e-2605196c7bea" />
+
 
 
 
