@@ -28,3 +28,6 @@ What's new in version 26.4.1:
     Auto-installation script: You can now deploy the entire project with just a couple of commands in the terminal.
 
 Gnomintosh Tahoe — make your Linux elegant.
+
+Theme - https://github.com/vinceliuice/MacTahoe-gtk-theme
+Icons - https://github.com/vinceliuice/MacTahoe-icon-theme
